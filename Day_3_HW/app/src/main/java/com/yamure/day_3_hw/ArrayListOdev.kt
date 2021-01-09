@@ -5,6 +5,10 @@ import kotlin.collections.ArrayList
 
 fun main() {
 
+    /*
+    Beş tane isimden oluşan bir arraylsit oluştur. Konsoldan girilen
+    ismin listede olup olmadığını kontol et
+     */
     val ogrenciListesi = ArrayList<String>()
 
     ogrenciListesi.add("Yağmur")
