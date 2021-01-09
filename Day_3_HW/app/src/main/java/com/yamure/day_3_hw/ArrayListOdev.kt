@@ -15,6 +15,7 @@ fun main() {
     ogrenciListesi.add("Ela")
     ogrenciListesi.add("Utku")
     ogrenciListesi.add("Elif")
+    ogrenciListesi.add("Mina")
 
     val isim = Scanner(System.`in`)
 
