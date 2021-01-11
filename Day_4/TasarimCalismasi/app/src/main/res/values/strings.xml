@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TasarimCalismasi</string>
+    <string name="sirket_adi">COMPANY</string>
+    <string name="kullaniciAdi">Username</string>
+    <string name="sifre">Password</string>
+    <string name="buttonYazi">LOGIN</string>
+</resources>
