@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TasarimCalismasi</string>
+    <string name="sirket_adi">ŞİRKET</string>
+    <string name="kullaniciAdi">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+    <string name="buttonYazi">GİRİŞ</string>
+</resources>
