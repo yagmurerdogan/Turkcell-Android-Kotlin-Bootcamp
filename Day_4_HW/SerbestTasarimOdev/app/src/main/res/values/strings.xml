@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SerbestTasarimOdev</string>
+    <string name="username_email">Username or Email</string>
+    <string name="hint_username">Enter Username</string>
+    <string name="password">Password</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="button_login">LOGIN</string>
+    <string name="button_sign_in">SIGN IN</string>
+</resources>
