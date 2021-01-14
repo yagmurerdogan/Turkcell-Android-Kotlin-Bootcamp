@@ -89,7 +89,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="30dp"
-        android:text="Remember Me"
+        android:text="@string/remember_me"
         android:textColor="@color/blue_text_button"
         android:textStyle="bold"
         app:layout_constraintEnd_toStartOf="@+id/button"
