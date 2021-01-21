@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6288682497",
+    "project_id": "egitim-71e60",
+    "storage_bucket": "egitim-71e60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6288682497:android:80cdb26747bfceb98b5a00",
+        "android_client_info": {
+          "package_name": "com.tutorials.internettabanlibildirim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6288682497-nuldk7hupuhlgb5f9li0ea7j7ihj9n7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg3ENXXLuNycXDRU6zlpgN3uk6jsgeGWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6288682497-nuldk7hupuhlgb5f9li0ea7j7ihj9n7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
